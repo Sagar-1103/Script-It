@@ -35,7 +35,7 @@ export default function Navbar() {
           to="/"
           className="text-white text-2xl font-bold text-start md:text-left"
         >
-          NoteBook
+          Script IT
         </Link>
         <div className="md:flex space-x-4 mt-4 md:mt-0 hidden">
           <Link to="/" className={`${location.pathname==="/"?"text-black font-bold bg-gray-100 transition duration-300 ease-out transform scale-105":"text-white"} rounded-2xl px-3 py-1`}>
